@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="44">
+      <Unit0>
+        <Filename Value="familytree.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="48"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Family"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="375"/>
+        <CursorPos X="43" Y="391"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="tune.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TuneForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="1357"/>
+        <CursorPos X="18" Y="1367"/>
+        <UsageCount Value="213"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="person.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="PersonForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="593"/>
+        <CursorPos X="7" Y="612"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="info.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="InfoStart"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="9"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="treebmp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TreeBmpForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="11"/>
+        <CursorPos X="21" Y="254"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="treehtm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TreeHtmForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="15"/>
+        <TopLine Value="731"/>
+        <CursorPos X="60" Y="739"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="test.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TestForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="13"/>
+        <CursorPos X="18" Y="15"/>
+        <UsageCount Value="204"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="genr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="GenrForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="326"/>
+        <CursorPos X="56" Y="333"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="foto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FotoForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="374"/>
+        <CursorPos X="18" Y="383"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="desc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DescForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="11"/>
+        <CursorPos X="100" Y="32"/>
+        <UsageCount Value="202"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="vphoto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ViewPhotoForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="63"/>
+        <CursorPos X="16" Y="82"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="fold.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FileForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="332"/>
+        <CursorPos X="18" Y="341"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="find.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FindForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="54"/>
+        <UsageCount Value="200"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="sort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SortForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="112"/>
+        <CursorPos X="41" Y="33"/>
+        <UsageCount Value="200"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="rich.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="RichForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="10"/>
+        <CursorPos X="16" Y="65"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="kino.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="KinoForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="343"/>
+        <CursorPos X="37" Y="346"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="prozess.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ProcessForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="79" Y="13"/>
+        <UsageCount Value="116"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="personnew.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="PersonNewForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="42" Y="132"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="newperson.pas"/>
+        <ComponentName Value="NewPersonForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="55"/>
+        <CursorPos Y="75"/>
+        <UsageCount Value="21"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="uprogress.pas"/>
+        <ComponentName Value="frmProgress"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="57" Y="13"/>
+        <UsageCount Value="138"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="ugauge.pas"/>
+        <ComponentName Value="GaugeForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="38" Y="24"/>
+        <UsageCount Value="138"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="utils.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="712"/>
+        <CursorPos X="7" Y="727"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="vars.pas"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="32"/>
+        <CursorPos X="64" Y="32"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="/Developer/lazarus/lcl/include/control.inc"/>
+        <TopLine Value="2703"/>
+        <CursorPos X="55" Y="2715"/>
+        <UsageCount Value="6"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/Developer/lazarus/lcl/include/application.inc"/>
+        <TopLine Value="674"/>
+        <CursorPos Y="688"/>
+        <UsageCount Value="4"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/Developer/lazarus/lcl/include/customform.inc"/>
+        <TopLine Value="936"/>
+        <CursorPos Y="950"/>
+        <UsageCount Value="6"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/Developer/lazarus/lcl/include/fpimagebitmap.inc"/>
+        <TopLine Value="134"/>
+        <CursorPos Y="147"/>
+        <UsageCount Value="4"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="prints.pas"/>
+        <CursorPos X="53" Y="18"/>
+        <UsageCount Value="51"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="graph.pas"/>
+        <TopLine Value="307"/>
+        <CursorPos Y="337"/>
+        <UsageCount Value="6"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="/Developer/lazarus/lcl/include/imglist.inc"/>
+        <TopLine Value="175"/>
+        <CursorPos Y="190"/>
+        <UsageCount Value="5"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="../FamilyTree.MacOS/utils.pas"/>
+        <TopLine Value="246"/>
+        <CursorPos X="36" Y="260"/>
+        <UsageCount Value="4"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="lib/fparchive/abutils.pas"/>
+        <UnitName Value="AbUtils"/>
+        <TopLine Value="382"/>
+        <CursorPos X="9" Y="397"/>
+        <UsageCount Value="5"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="lib/fparchive/abarctyp.pas"/>
+        <UnitName Value="AbArcTyp"/>
+        <TopLine Value="1358"/>
+        <CursorPos Y="1370"/>
+        <UsageCount Value="4"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="lib/fparchive/abspanst.pas"/>
+        <UnitName Value="AbSpanSt"/>
+        <TopLine Value="91"/>
+        <CursorPos X="5" Y="120"/>
+        <UsageCount Value="4"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="lib/fparchive/abcabtyp.pas"/>
+        <UnitName Value="AbCabTyp"/>
+        <TopLine Value="233"/>
+        <CursorPos X="31" Y="259"/>
+        <UsageCount Value="4"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="../../../MyProgram/lazarus/lcl/include/customform.inc"/>
+        <TopLine Value="936"/>
+        <CursorPos Y="950"/>
+        <UsageCount Value="6"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="../../../MyProgram/lazarus/lcl/include/application.inc"/>
+        <TopLine Value="674"/>
+        <CursorPos Y="688"/>
+        <UsageCount Value="6"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="cnsts.pas"/>
+        <CursorPos X="3" Y="6"/>
+        <UsageCount Value="32"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="/Developer/lazarus/components/lazutils/fileutil.inc"/>
+        <TopLine Value="992"/>
+        <CursorPos X="102" Y="995"/>
+        <UsageCount Value="6"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="../../../MyProgram/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <TopLine Value="30"/>
+        <CursorPos X="36" Y="44"/>
+        <UsageCount Value="8"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="../../../MyProgram/lazarus/lcl/grids.pas"/>
+        <UnitName Value="Grids"/>
+        <TopLine Value="29"/>
+        <CursorPos X="21" Y="43"/>
+        <UsageCount Value="9"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="../../../MyProgram/lazarus/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <TopLine Value="32"/>
+        <CursorPos X="3" Y="46"/>
+        <UsageCount Value="9"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="tune.lfm"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit43>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="1823" Column="56" TopLine="1820"/>
+      </Position1>
+      <Position2>
+        <Filename Value="genr.pas"/>
+        <Caret Line="309" Column="15" TopLine="300"/>
+      </Position2>
+      <Position3>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="470" Column="3" TopLine="454"/>
+      </Position3>
+      <Position4>
+        <Filename Value="treehtm.pas"/>
+      </Position4>
+      <Position5>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="474" Column="38" TopLine="450"/>
+      </Position5>
+      <Position6>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="1123" Column="45" TopLine="1096"/>
+      </Position6>
+      <Position7>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="1639" Column="10" TopLine="1612"/>
+      </Position7>
+      <Position8>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="1830" Column="17" TopLine="1803"/>
+      </Position8>
+      <Position9>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="2044" Column="3" TopLine="2017"/>
+      </Position9>
+      <Position10>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="2198" Column="5" TopLine="2171"/>
+      </Position10>
+      <Position11>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="2427" Column="13" TopLine="2400"/>
+      </Position11>
+      <Position12>
+        <Filename Value="genr.pas"/>
+        <Caret Line="28" Column="16" TopLine="12"/>
+      </Position12>
+      <Position13>
+        <Filename Value="genr.pas"/>
+        <Caret Line="31" Column="64" TopLine="12"/>
+      </Position13>
+      <Position14>
+        <Filename Value="main.pas"/>
+        <Caret Line="165" Column="38" TopLine="157"/>
+      </Position14>
+      <Position15>
+        <Filename Value="main.pas"/>
+        <Caret Line="43" Column="43" TopLine="29"/>
+      </Position15>
+      <Position16>
+        <Filename Value="main.pas"/>
+        <Caret Line="60" Column="61" TopLine="35"/>
+      </Position16>
+      <Position17>
+        <Filename Value="main.pas"/>
+        <Caret Line="79" Column="61" TopLine="52"/>
+      </Position17>
+      <Position18>
+        <Filename Value="main.pas"/>
+        <Caret Line="110" Column="69" TopLine="86"/>
+      </Position18>
+      <Position19>
+        <Filename Value="main.pas"/>
+        <Caret Line="113" Column="29" TopLine="108"/>
+      </Position19>
+      <Position20>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="471" Column="18" TopLine="463"/>
+      </Position20>
+      <Position21>
+        <Filename Value="treehtm.pas"/>
+      </Position21>
+      <Position22>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="473" TopLine="450"/>
+      </Position22>
+      <Position23>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="475" Column="31" TopLine="450"/>
+      </Position23>
+      <Position24>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="1123" Column="24" TopLine="1099"/>
+      </Position24>
+      <Position25>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="1640" TopLine="1615"/>
+      </Position25>
+      <Position26>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="1830" Column="6" TopLine="1806"/>
+      </Position26>
+      <Position27>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="2044" Column="6" TopLine="2020"/>
+      </Position27>
+      <Position28>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="2198" Column="7" TopLine="2174"/>
+      </Position28>
+      <Position29>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="2427" Column="14" TopLine="2403"/>
+      </Position29>
+      <Position30>
+        <Filename Value="treehtm.pas"/>
+        <Caret Line="465" Column="62" TopLine="460"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

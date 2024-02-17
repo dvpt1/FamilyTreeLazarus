@@ -1,0 +1,23 @@
+object ProcessForm: TProcessForm
+  Left = 286
+  Height = 64
+  Top = 134
+  Width = 360
+  AlphaBlend = True
+  AlphaBlendValue = 240
+  BorderStyle = bsDialog
+  BorderWidth = 1
+  Caption = 'Process'
+  ClientHeight = 64
+  ClientWidth = 360
+  Position = poMainFormCenter
+  LCLVersion = '1.0.2.0'
+  object Gauge1: TProgressBar
+    Left = 1
+    Height = 62
+    Top = 1
+    Width = 358
+    Align = alClient
+    TabOrder = 0
+  end
+end

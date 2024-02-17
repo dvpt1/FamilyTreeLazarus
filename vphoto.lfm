@@ -1,0 +1,118 @@
+object ViewPhotoForm: TViewPhotoForm
+  Left = 232
+  Height = 600
+  Top = 72
+  Width = 800
+  Caption = 'ViewPhotoForm'
+  ClientHeight = 600
+  ClientWidth = 800
+  OnActivate = FormActivate
+  OnMouseWheelDown = FormMouseWheelDown
+  OnMouseWheelUp = FormMouseWheelUp
+  LCLVersion = '1.0.2.0'
+  object ToolBar1: TToolBar
+    Left = 0
+    Height = 50
+    Top = 0
+    Width = 800
+    AutoSize = True
+    ButtonHeight = 48
+    ButtonWidth = 48
+    Caption = 'ToolBar1'
+    Images = Family.ImageBar48
+    TabOrder = 0
+    object SizeButton: TToolButton
+      Left = 1
+      Top = 2
+      Caption = 'SizeButton'
+      ImageIndex = 18
+      OnClick = SizeButtonClick
+    end
+    object PlusButton: TToolButton
+      Left = 53
+      Top = 2
+      Caption = 'PlusButton'
+      ImageIndex = 19
+      OnClick = PlusButtonClick
+    end
+    object TuneButton: TToolButton
+      Left = 261
+      Top = 2
+      Caption = 'TuneButton'
+      ImageIndex = 12
+      OnClick = TuneButtonClick
+    end
+    object HelpButton: TToolButton
+      Left = 313
+      Top = 2
+      Caption = 'HelpButton'
+      ImageIndex = 13
+      OnClick = HelpButtonClick
+    end
+    object BackButton: TToolButton
+      Left = 365
+      Top = 2
+      Caption = 'BackButton'
+      ImageIndex = 15
+      OnClick = BackButtonClick
+    end
+    object MinusButton: TToolButton
+      Left = 105
+      Top = 2
+      Caption = 'MinusButton'
+      ImageIndex = 20
+      OnClick = MinusButtonClick
+    end
+    object SaveButton: TToolButton
+      Left = 157
+      Top = 2
+      Caption = 'SaveButton'
+      ImageIndex = 16
+      OnClick = SaveButtonClick
+    end
+    object PrintButton: TToolButton
+      Left = 209
+      Top = 2
+      Caption = 'PrintButton'
+      ImageIndex = 11
+      OnClick = PrintButtonClick
+    end
+  end
+  object ScrollPhoto: TScrollBox
+    Left = 0
+    Height = 550
+    Top = 50
+    Width = 800
+    HorzScrollBar.Page = 800
+    VertScrollBar.Page = 535
+    Align = alClient
+    ClientHeight = 535
+    ClientWidth = 800
+    TabOrder = 1
+    object ImagePhoto: TImage
+      Left = 0
+      Height = 90
+      Top = 0
+      Width = 90
+      AutoSize = True
+      OnMouseDown = ImagePhotoMouseDown
+      OnMouseMove = ImagePhotoMouseMove
+      OnMouseUp = ImagePhotoMouseUp
+      Proportional = True
+      Stretch = True
+    end
+    object Gauge1: TProgressBar
+      Left = 0
+      Height = 14
+      Top = 0
+      Width = 800
+      Align = alTop
+      TabOrder = 0
+      Visible = False
+    end
+  end
+  object PrintDialog1: TPrintDialog
+    left = 259
+    top = 125
+  end
+end

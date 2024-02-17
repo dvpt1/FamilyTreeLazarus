@@ -1,0 +1,76 @@
+object DescForm: TDescForm
+  Left = 240
+  Height = 414
+  Top = 106
+  Width = 600
+  BorderStyle = bsDialog
+  Caption = 'DescForm'
+  ClientHeight = 414
+  ClientWidth = 600
+  OnActivate = FormActivate
+  Position = poMainFormCenter
+  LCLVersion = '1.0.2.0'
+  object ToolBar1: TToolBar
+    Left = 0
+    Height = 50
+    Top = 0
+    Width = 600
+    ButtonHeight = 48
+    ButtonWidth = 48
+    Caption = 'ToolBar1'
+    Images = Family.ImageBar48
+    TabOrder = 0
+    object ButtonOK: TToolButton
+      Left = 1
+      Top = 2
+      Caption = 'ButtonOK'
+      ImageIndex = 16
+      OnClick = ButtonOKClick
+      ParentShowHint = False
+      ShowHint = True
+    end
+    object ButtonCancel: TToolButton
+      Left = 53
+      Top = 2
+      Caption = 'ButtonCancel'
+      ImageIndex = 15
+      OnClick = ButtonCancelClick
+      ParentShowHint = False
+      ShowHint = True
+    end
+  end
+  object LabelName: TLabel
+    Left = 16
+    Height = 16
+    Top = 64
+    Width = 33
+    Caption = 'Name'
+    ParentColor = False
+  end
+  object EditName: TEdit
+    Left = 16
+    Height = 23
+    Top = 88
+    Width = 568
+    Anchors = [akTop, akLeft, akRight]
+    TabOrder = 1
+  end
+  object LabelNote: TLabel
+    Left = 16
+    Height = 16
+    Top = 120
+    Width = 27
+    Caption = 'Note'
+    ParentColor = False
+  end
+  object EditNote: TMemo
+    Left = 16
+    Height = 258
+    Top = 144
+    Width = 568
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    ScrollBars = ssAutoBoth
+    TabOrder = 2
+    WordWrap = False
+  end
+end
