@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Генеалогическое древо семьи</string>
+        
+<string name="field_name">Лицо:</string>
+<string name="field_gender">Пол:</string>
+<string name="field_father">Отец:</string>
+<string name="field_mother">Мать:</string>
+<string name="field_birth">Нараждане:</string>
+<string name="field_death">Починал:</string>
+<string name="field_placeb">Место рождения:</string>
+<string name="field_placed">Смерть место:</string>
+<string name="field_foto">Имя:</string>
+<string name="field_note">Примечание:</string>
+<string name="field_child">Ребенок:</string>
+<string name="field_son">Сын:</string>
+<string name="field_daughter">Дочь:</string>
+<string name="field_brother">Брат:</string>
+<string name="field_sister">Сестра:</string>
+<string name="field_occu">Професия:</string>
+<string name="field_nati">Националност:</string>
+<string name="field_spouse">Съпруг:</string>
+<string name="field_wife">Съпруга:</string>
+<string name="field_husband">Съпруг:</string>
+<string name="field_wedding">Датата на сватбата:</string>
+<string name="field_placew">Сватба място на провеждане:</string>
+
+<string name="title_family">Семья</string>
+<string name="title_tree">Генеалогическое дерево</string>
+<string name="title_branch">Генеалогическая ветвь</string>
+<string name="title_listgenerat">Список поколений</string>
+<string name="title_generation">Поколение</string>
+
+<string name="title_add">Добавить новое лицо</string>
+<string name="title_edit">Изменить лицо</string>
+<string name="title_rich">Информация лицо</string>
+<string name="title_foto">Фотоальбом</string>
+<string name="title_kino">Видеоальбом</string>
+<string name="title_file">Файлы альбом</string>
+<string name="title_delete">Удалить этого человека?</string>
+
+<string name="title_folder">Изберете стоките</string>
+
+<string name="menu_new">Новый</string>
+<string name="menu_open">Открыть</string>
+<string name="menu_load">Изтегляне</string>
+<string name="menu_save">Сохранить</string>
+<string name="menu_edit">Редактировать</string>
+<string name="menu_dele">Удалять</string>
+<string name="menu_sort">Сортировать</string>
+<string name="menu_find">Находить</string>
+<string name="menu_tune">Настройки</string>
+<string name="menu_abou">О программе</string>
+<string name="menu_exit">Выход</string>
+<string name="menu_back">Назад</string>
+<string name="menu_face">Facebook</string>
+<string name="menu_prin">Печат</string>
+<string name="menu_send">Изпрати</string>
+
+<string name="menu_ok">ОК</string>
+<string name="menu_yes">Да</string>
+<string name="menu_no">Нет</string>
+<string name="menu_cancel">Отменить</string>
+<string name="menu_delete">Удалять</string>
+
+<string name="gender_male">Мужчина</string>
+<string name="gender_female">Женский</string>
+<string name="gender_neutral">Сказать</string>
+
+<string name="date_format">dd.MM.yyyy</string>
+<string name="data_byte">  байт</string>
+<string name="data_date">  дата</string>
+<string name="data_time">  время</string>
+                
+<string name="msg_unable_save_file">Не удается сохранить файл:</string>
+<string name="msg_file_not_found">Файл не найден:</string>
+<string name="msg_error_loading_file">Ошибка при загрузке файла:</string>
+<string name="msg_sele_person">Выбранный лицо:</string>
+<string name="msg_del_foto">Премахване на снимката?</string>
+<string name="msg_del_kino">Отстранете видео?</string>
+<string name="msg_del_file">Изтриване на файл?</string>
+<string name="msg_del_person">Отстранете човек?</string>
+<string name="msg_deld_foto">Снимка премахнати:</string>
+<string name="msg_deld_kino">Видеоклипът е премахнат:</string>
+<string name="msg_deld_file">Файлът беше изтрит:</string>
+<string name="msg_deld_person">Лицето се отстранява:</string>
+<string name="msg_open_file">Открыть файл:</string>
+<string name="msg_save_file">Сохранить файл:</string>
+<string name="msg_dirs_file">Изберете директория:</string>
+<string name="msg_copy_file">Файл копируется!</string>
+<string name="msg_copyed_file">Файл копируется!</string>
+<string name="msg_file_already_list">Файл уже в списке</string>
+<string name="msg_person_already_list">Лицо уже есть в списке</string>
+<string name="msg_unknown_file_type">Неизвестный тип файла</string>
+
+<string name="list_button_hint">Добавяне на човек</string>
+<string name="tree_button_hint">Семейно дърво</string>
+<string name="genr_button_hint">Поколенията живопис</string>
+<string name="rept_button_hint">Отделен доклад</string>
+<string name="foto_button_hint">Фото</string>
+<string name="kino_button_hint">Видео</string>
+<string name="file_button_hint">Файлы</string>
+<string name="rich_button_hint">Семейна история</string>
+<string name="newe_button_hint">Добави</string>
+<string name="edit_button_hint">Редактирам</string>
+<string name="dele_button_hint">Премахнете</string>
+<string name="find_button_hint">Търсене</string>
+<string name="pict_button_hint">Добави снимка</string>
+<string name="prin_button_hint">Печат</string>
+<string name="save_button_hint">Спасяване</string>
+<string name="sort_button_hint">Вид</string>
+<string name="tune_button_hint">Настройки</string>
+<string name="help_button_hint">Помощ</string>
+<string name="exit_button_hint">Излезте от програмата</string>
+<string name="size_button_hint">Размер</string>
+<string name="plus_button_hint">Увеличи</string>
+<string name="minus_button_hint">Намалете</string>
+<string name="back_button_hint">Назад</string>
+
+<string name="labelName">Име:</string>
+<string name="labelNote">Описание:</string>
+
+<!-- Preferences stuff -->
+<string name="pref_tree_title">Предпочтения</string>
+		
+<string name="pref_list_title">Посмотреть список лиц,</string>
+<string name="pref_list_dialog">Выберите тип списка лиц,</string>
+<string name="pref_list_small">Вижте малка (32x32)</string>
+<string name="pref_list_middle">Преглед на средата (48x48)</string>
+<string name="pref_list_large">Виж в по-голям размер (64x64)</string>
+            
+<string name="hint_list_small">Виж име, дата на раждане, дата на смъртта, пол</string>
+<string name="hint_list_middle">Виж име, дата на раждане, дата на смъртта, пол, баща си и майка</string>
+<string name="hint_list_large">Виж име, дата на раждане, датата на смъртта, място на раждане, мястото на смъртта, пол, баща си и майка</string>
+        
+<string name="pref_view_tree_title">Преглед на родословното дърво</string>
+<string name="pref_view_tree_dialog">Изберете родословно дърво</string>
+<string name="pref_view_tree_down">Отгоре до долу</string>
+<string name="pref_view_tree_all">От дъното към върха</string>
+    
+<string name="hint_view_tree_down">С отгоре надолу родословното дърво.</string>
+<string name="hint_view_tree_all">От дъното нагоре родословно дърво.</string>
+
+<string name="pref_tree_all_title">Посмотреть родословното дърво</string>
+<string name="pref_tree_all_tree">Человек и дерево</string>
+<string name="pref_tree_all_father">Отца и ребенка</string>
+<string name="pref_tree_all_mother">Мать и дитя</string>
+        
+<string name="hint_tree_all_tree">Нарисуйте контактное лицо и дерево</string>
+<string name="hint_tree_all_father">Нарисуйте контакта отца и ребенка</string>
+<string name="hint_tree_all_mother">Нарисуйте контакт матери и ребенка</string>
+
+<string name="pref_gender_title">Прогениторни клетки</string>
+<string name="pref_tree_gender">Изборът на родоначалника</string>
+<string name="root_all">всички</string>
+<string name="root_men">от мъжете</string>
+<string name="root_women">от жените</string>
+
+<string name="pref_pay_title">Реклама</string>
+<string name="pref_pay_text">Удалить рекламу</string>
+<string name="hint_pay_text">Купить программу сейчас</string>
+        
+<string name="pref_type_title">Вида на дървото</string>
+<string name="hint_type_title">Избор на родословно дърво</string>
+<string name="pref_type_all">Универсален</string>
+<string name="pref_type_commom">Общ</string>
+<string name="pref_type_ring">Пръстени</string>
+<string name="pref_type_national">Национален</string>
+
+<string name="pref_catalog_title">Директория</string>
+<string name="hint_catalog_title">Изберете данни за местоположението указатели</string>
+<string name="pref_lang_title">Език</string>
+<string name="hint_lang_title">Програмата език</string>
+<string name="pref_date_title">Дата</string>
+<string name="hint_date_title">Изберете формат на датата на програмата</string>
+
+<string name="pref_form_title">Форматът на дървото</string>
+<string name="hint_form_title">Избор на формат на родословно дърво</string>
+<string name="pref_form_bmp">Графичен</string>
+<string name="pref_form_htm">Hypertext</string>
+
+<!-- Sort person -->
+<string name="sort_person_title">Сортиране на списък на лица</string>
+		
+<!-- Find person -->
+<string name="find_person_title">Търсене на човек</string>
+<string name="find_not_found">Не са намерени</string>
+
+<!-- GEDCOM -->
+<string name="pref_gedcom_title">GEDCOM</string>
+<string name="pref_gedcom_import">Внос GEDCOM</string>
+<string name="pref_gedcom_export">Износ GEDCOM</string>
+<string name="hint_gedcom_import">Вносът в международната генеалогичните GEDCOM формат</string>
+<string name="hint_gedcom_export">Износът на международните генеалогичните GEDCOM формат</string>
+<string name="pref_gedcom_charset">Encoding GEDCOM</string>
+<string name="hint_gedcom_charset"></string>
+<string name="code_gedcom_between">между</string>
+<string name="code_gedcom_and">и</string>
+<string name="code_gedcom_before">преди</string>
+<string name="code_gedcom_after">след</string>
+			
+<!-- ZIP -->
+<string name="pref_zip_title">ZIP</string>
+<string name="pref_zip_export">Компресиране в пощенски</string>
+<string name="pref_zip_import">Разархивирайте от пощенски</string>
+<string name="hint_zip_export">Записване на информация в ZIP архив</string>
+<string name="hint_zip_import">Извличане на информация от ZIP архив</string>
+
+<!-- DIR -->
+<string name="pref_dir_title">Информация за директориите</string>
+<string name="pref_dir_name">Задайте Directory по подразбиране</string>
+<string name="pref_dir_summary">Телефонен указател на информация за съхранение по подразбиране</string>
+
+<!-- TEST BASE -->
+<string name="pref_test_err0">повторение на хора</string>
+<string name="pref_test_err1">което не е вписано</string>
+<string name="pref_test_err2">не е в списъка</string>
+<string name="pref_test_err3">родени преди</string>
+<string name="pref_test_err4">повторение на съпруг</string>
+
+<!-- ERROR MESSAGE -->
+<string name="error_msg00">Не мога</string>
+<string name="error_msg01">Не мога да отворя файл:</string>
+<string name="error_msg02">Не може да се запише файла:</string>
+<string name="error_msg03">Файлът не е намерен:</string>
+<string name="error_msg04">Грешка при зареждане на файл:</string>
+
+<!-- TASK -->
+<string name="task_loading">Зареждане (%1$d%%)...</string>
+<string name="task_saveing">Спестяване (%1$d%%)...</string>
+<string name="task_sorting">Сортиране (%1$d%%)...</string>
+<string name="task_growing">Расте ...</string>
+<string name="task_waiting">Очаквайки ...</string>
+<string name="task_runing">Преработка ...</string>
+<string name="task_calcing">Изчисление ...</string>
+<string name="task_copying">Копиране (%1$d%%)...</string>
+<string name="task_working">Работят (%1$d%%)...</string>
+<string name="task_testing">Тестване (%1$d%%)...</string>
+<string name="task_starting">Започвайки ...</string>
+<string name="task_cancelled">Задачата е отменен.</string>
+<string name="task_completed">Задачата е завършена.</string>
+
+<!-- Appearance -->  
+<string name="title_appearance">Вид</string>
+<string name="appe_fontname">Шрифт</string>
+<string name="hint_fontname">Изберете вида на шрифта</string>
+<string name="appe_fontstyle">стил на шрифта</string>
+<string name="hint_fontstyle">Изберете стила на шрифта</string>
+<string name="appe_fontsize">Размер на шрифта</string>
+<string name="hint_fontsize">Изберете размера на шрифта</string>
+<string name="title_color">Изберете цвят</string>
+<string name="appe_fontclr">Цвят на шрифта</string>
+<string name="hint_fontclr">Изберете цвят на шрифта</string>
+<string name="appe_bground">Цвят на фона</string>
+<string name="hint_bground">Изберете цвят на фона</string>
+
+<!-- Facebook -->
+<string name="title_facebook">Социална мрежа Facebook</string>
+<string name="app_action">Аз съм с помощта на FamilyTree за Android</string>
+<string name="request_message">Родословното дърво на семейството за Android.</string>
+<string name="post">Стена Мнение!</string>
+<string name="request">Запитване!</string>
+<string name="friends">Вземи Приятели</string>
+<string name="upload">Качване на снимка</string>
+<string name="place">Поставете Проверете в</string>
+<string name="photo_upload">В FamilyTree качване на снимки</string>
+<string name="error_selecting_image">Грешка при избора на изображение от галерията.</string>
+<string name="no_image_selected">Не е избрано изображение за качване.</string>
+<string name="warning">Внимание</string>
+<string name="you_must_first_log_in">Първо трябва да вляза?</string>
+<string name="update_status_executed">Актуализиране на екзекутиран Статус</string>
+<string name="no_wall_post_made">Не след стена</string>
+<string name="update_status_cancelled">Актуализация статус отменен</string>
+<string name="app_request_sent">App искане е изпратено</string>
+<string name="app_request_cancelled">App искане отменен</string>
+<string name="upload_photo_executed">Качи екзекутиран снимка</string>
+<string name="response">отговор:</string>
+<string name="welcome">добре дошъл</string>
+<string name="login_failed">Влез Грешка:</string>
+<string name="logging_out">Излизане ...</string>
+<string name="you_have_logged_out">Вие сте влезли!</string>
+<string name="fetching_user_name">Извличането на потребителско име, профила на картина ...</string>
+<string name="no_login">Graph API Explorer</string>
+<string name="get_permissions">Вземи Разрешения</string>
+<string name="access_token">Кода за достъп:</string>
+<string name="error">грешка</string>
+<string name="reset">Проучване</string>
+<string name="delete">Изтриване на Мнение</string>
+<string name="submit">Подайте</string>
+<string name="label_output">Изход:</string>
+<string name="show_metadata">Покажи метаданни</string>
+<string name="show_picture">Покажи картина</string>
+<string name="exception">Изключение:</string>
+<string name="tip_label">Съвет:</string>
+<string name="facebook_error">Facebook Грешка:</string>
+<string name="api_response">Api отговор:</string>
+<string name="view_source">Преглед на източника</string>
+<string name="view_post">Преглед на мнение</string>
+<string name="delete_post">Изтриване на Мнение</string>
+<string name="source_code">На изходния код:</string>
+<string name="view_photo">Преглед на снимка</string>
+<string name="hide_photo">Скриване на снимка</string>
+<string name="tag_photo">Tag снимка</string>
+<string name="graph_button">Graph API</string>
+<string name="fql_button">FQL Запитване</string>
+<string name="remote_button">отдалечен</string>
+<string name="gallery_button">галерия</string>
+<string name="get_fields">Вземи Fields</string>
+<string name="connections">Връзки</string>
+<string name="checkin">Настаняване в хотела</string>
+<string name="user">Потребителските данни</string>
+<string name="fields">Полетата</string>
+<string name="friend">Приятели на данни</string>
+<string name="extended">разширен</string>
+<string name="source_tag">Източник тагове:</string>
+<string name="can_post_on_wall_title">Мнение на стената на приятел</string>
+<string name="can_post_on_wall">Списък с приятели пресилено. Можете да публикувате на стената на приятел, като кликнете върху елемента.</string>
+<string name="post_on_wall_title">Мнение на стената?</string>
+<string name="gallery_remote_title">Качване от галерията или дистанционно?</string>
+<string name="gallery_remote_msg">Качване на картинка от галерията на телефона или на отдалечен сървър?</string>
+<string name="get_location">На местоположението?</string>
+<string name="get_default_or_new_location">Вземи текущото си местоположение или часове Използвайте квадратни като местоположение?</string>
+<string name="current_location_button">Текущо местоположение</string>
+<string name="fetching_current_permissions">Извличане на настоящите разрешения ...</string>
+<string name="nearby_places">Извличането близките места ...</string>
+<string name="times_square_button">Таймс Скуеър</string>
+<string name="check_in_title">Настаняване в хотела?</string>
+<string name="permissions">Разрешения</string>
+<string name="back_parent">Обратно към родител</string>
+<string name="permissions_request">Изберете Permissions:</string>
+<string name="fetching_location">Извличането Разположение ...</string>
+<string name="fqlquery">Въведете FQL Запитване:</string>
+<string name="enable_gps_title">Разрешаване на GPS</string>
+<string name="enable_gps">Моля активирайте GPS, за да получите близки места и да проверите в</string>
+<string name="gps_settings">GPS Настройки</string>
+<string name="refresh_token_title">Обнови Token</string>
+<string name="refresh_button">Обнови</string>
+<string name="refresh_button_pending">Освежаващ ...</string>
+<string name="access_token_label">Текущи знак за достъп:</string>
+<string name="access_token_expires_label">Token изтича в:</string>
+
+<!-- REGISTRATION -->
+<string name="msg_yes_regs">Регистрирай се!</string>
+<string name="msg_not_reg1">Лимит за нерегистрирани копия</string>
+<string name="msg_not_reg2"> записи</string>
+
+</resources>
