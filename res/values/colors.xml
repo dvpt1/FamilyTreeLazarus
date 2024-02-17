@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="background">#3500ff</color>
+   
+   <color name="person_background">#ffe6f0</color>
+   <color name="person_father">#00ffff</color>
+   <color name="person_mother">#ffc0cb</color>
+   <color name="person_none">#8f8989</color>
+   <color name="person_foreground">#ff0000</color>
+   <color name="person_selected">#64ff80</color>
+
+   <color name="white">#ffffff</color>
+   <color name="black">#000000</color>
+   <color name="green">#23cf34</color>
+   <color name="orange">#E47833</color>
+   <color name="lite_blue">#4E78A0</color>
+   <color name="blue">#0000FF</color>
+   <color name="grey">#FF909090</color>
+   <color name="yellow">#d0d000</color>
+   <color name="red">#a00000</color>
+
+   <drawable name="white">#ffffff</drawable>
+   <drawable name="black">#000000</drawable>
+    
+</resources>

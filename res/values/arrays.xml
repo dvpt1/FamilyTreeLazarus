@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="genders">
+    <item>@string/gender_neutral</item>
+    <item>@string/gender_male</item>
+    <item>@string/gender_female</item>
+    </string-array>
+
+    <string-array name="sizeitemperson">
+    <item>@string/pref_list_small</item>
+    <item>@string/pref_list_middle</item>
+    <item>@string/pref_list_large</item>
+    </string-array>
+    
+    <string-array name="viewitemtree">
+    <item>@string/pref_view_tree_down</item>
+    <item>@string/pref_view_tree_all</item>
+    </string-array>
+    
+    <string-array name="listtreegender">
+    <item>@string/root_all</item>
+    <item>@string/root_men</item>
+    <item>@string/root_women</item>
+    </string-array>
+    
+    <string-array name="listsortperson">
+   	<item>@string/field_birth</item>
+	<item>@string/field_death</item>
+   	<item>@string/field_name</item>
+   	<item>@string/field_father</item>
+   	<item>@string/field_mother</item>
+	<item>@string/field_gender</item>
+   	</string-array>
+
+    <string-array name="listvalues">
+   	<item>0</item>
+   	<item>1</item>
+   	<item>2</item>
+   	<item>3</item>
+   	<item>4</item>
+   	<item>5</item>
+   	<item>6</item>
+   	<item>7</item>
+   	<item>8</item>
+   	<item>9</item>
+   	<item>10</item>
+   	<item>11</item>
+   	<item>12</item>
+   	<item>13</item>
+   	<item>14</item>
+   	<item>15</item>
+   	<item>16</item>
+   	<item>17</item>
+   	<item>18</item>
+   	<item>19</item>
+   	<item>20</item>
+   	<item>21</item>
+   	<item>22</item>
+   	<item>23</item>
+   	<item>24</item>
+   	<item>25</item>
+   	<item>26</item>
+   	<item>27</item>
+   	<item>28</item>
+   	<item>29</item>
+   	<item>30</item>
+   	<item>31</item>
+   	<item>32</item>
+   	<item>33</item>
+   	<item>34</item>
+   	<item>35</item>
+   	<item>36</item>
+   	<item>37</item>
+   	<item>38</item>
+   	<item>39</item>
+   	<item>40</item>
+   	<item>41</item>
+   	<item>42</item>
+   	<item>43</item>
+   	<item>44</item>
+   	<item>45</item>
+   	<item>46</item>
+   	<item>47</item>
+   	<item>48</item>
+   	<item>49</item>
+   	<item>50</item>
+   	<item>51</item>
+   	<item>52</item>
+   	<item>53</item>
+   	<item>54</item>
+   	<item>55</item>
+   	<item>56</item>
+   	<item>57</item>
+   	<item>58</item>
+   	<item>59</item>
+   	<item>60</item>
+   	<item>61</item>
+   	<item>62</item>
+   	<item>63</item>
+   	<item>64</item>
+   	<item>65</item>
+   	<item>66</item>
+   	<item>67</item>
+   	<item>68</item>
+   	<item>69</item>
+   	<item>70</item>
+   	<item>71</item>
+   	<item>72</item>
+   	<item>73</item>
+   	<item>74</item>
+   	<item>75</item>
+   	<item>76</item>
+   	<item>77</item>
+   	<item>78</item>
+   	<item>79</item>
+   	<item>80</item>
+   	<item>81</item>
+   	<item>82</item>
+   	<item>83</item>
+   	<item>84</item>
+   	<item>85</item>
+   	<item>86</item>
+   	<item>87</item>
+   	<item>88</item>
+   	<item>89</item>
+   	<item>90</item>
+   	<item>91</item>
+   	<item>92</item>
+   	<item>93</item>
+   	<item>94</item>
+   	<item>95</item>
+   	<item>96</item>
+   	<item>97</item>
+   	<item>98</item>
+   	<item>99</item>
+   	<item>100</item>
+   	<item>101</item>
+   	<item>102</item>
+   	<item>103</item>
+   	<item>104</item>
+   	<item>105</item>
+   	<item>106</item>
+   	<item>107</item>
+   	<item>108</item>
+   	<item>109</item>
+   	<item>110</item>
+   	<item>111</item>
+   	</string-array>
+
+	<string-array name="listcharset">
+    <item></item>  	// ASCII
+    <item>ISO8859_1</item>  // ISO 8859-1
+    <item>ISO8859_2</item>  // ISO 8859-2
+    <item>ISO8859_3</item>  // ISO 8859-3
+    <item>"ISO8859_4</item> // ISO 8859-4
+    <item>ISO8859_5</item>  // ISO 8859-5
+    <item>ISO8859_6</item>  // ISO 8859-6
+    <item>ISO8859_7</item>  // ISO 8859-7
+    <item>ISO8859_8</item>  // ISO 8859-8
+    <item>ISO8859_9</item>  // ISO 8859-9
+    <item>Big5</item>   	// Big5, Traditional Chinese
+    <item>Cp037</item>  	// USA, Canada(Bilingual, French), Netherlands, Portugal, Brazil, Australia
+    <item>Cp1006</item> 	//  customer  AIX Pakistan (Urdu)
+    <item>Cp1025</item> 	//  customer  Multilingual Cyrillic: Bulgaria, Bosnia, Herzegovinia, Macedonia(FYR)
+    <item>Cp1026</item> 	//  customer  Latin-5, Turkey
+    <item>Cp1046</item> 	//  customer  Open Edition US EBCDIC
+    <item>Cp1097</item> 	//  customer  Iran(Farsi)/Persian
+    <item>Cp1098</item> 	//  customer  Iran(Farsi)/Persian (PC)
+    <item>Cp1112</item> 	//  customer  Latvia, Lithuania
+    <item>Cp1122</item> 	//  customer  Estonia
+    <item>Cp1123</item> 	//  customer  Ukraine
+    <item>Cp1124</item> 	//  customer  AIX Ukraine
+    <item>Cp1250</item> 	// Windows Eastern European
+    <item>Cp1251</item> 	// Windows Cyrillic
+    <item>Cp1252</item> 	// Windows Latin-1
+    <item>Cp1253</item>		// Windows Greek
+    <item>Cp1254</item> 	// Windows Turkish
+    <item>Cp1255</item> 	// Windows Hebrew
+    <item>Cp1256</item> 	// Windows Arabic
+    <item>Cp1257</item> 	// Windows Baltic
+    <item>Cp1258</item> 	// Windows Vietnamese
+    <item>Cp1381</item> 	//  customer  OS/2, DOS People's Republic of China (PRC)
+    <item>Cp1383</item> 	//  customer  AIX People's Republic of China (PRC)
+    <item>Cp273</item>  	//  customer  Austria, Germany
+    <item>Cp277</item>  	//  customer  Denmark, Norway
+    <item>Cp278</item>  	//  customer  Finland, Sweden
+    <item>Cp280</item>  	//  customer  Italy
+    <item>Cp284</item>  	//  customer  Catalan/Spain, Spanish Latin America
+    <item>Cp285</item>  	//  customer  United Kingdom, Ireland
+    <item>Cp297</item>  	//  customer  France
+    <item>Cp33722</item>	//  customer -eucJP - Japanese (superset of 5050)
+    <item>Cp420</item>  	//  customer  Arabic
+    <item>Cp424</item>  	//  customer  Hebrew
+    <item>Cp437</item>  	// MS-DOS United States, Australia, New Zealand, South Africa
+    <item>Cp500</item>  	// EBCDIC 500V1
+    <item>Cp737</item>  	// PC Greek
+    <item>Cp775</item>  	// PC Baltic
+    <item>Cp838</item>  	//  customer  Thailand extended SBCS
+    <item>Cp850</item>  	// MS-DOS Latin-1
+    <item>Cp852</item>  	// MS-DOS Latin-2
+    <item>Cp855</item>  	//  customer  Cyrillic
+    <item>Cp857</item>  	//  customer  Turkish
+    <item>Cp860</item>  	// MS-DOS Portuguese
+    <item>Cp861</item>  	// MS-DOS Icelandic
+    <item>Cp862</item>  	// PC Hebrew
+    <item>Cp863</item>  	// MS-DOS Canadian French
+    <item>Cp864</item>  	// PC Arabic
+    <item>Cp865</item>  	// MS-DOS Nordic
+    <item>Cp866</item>  	// MS-DOS Russian
+    <item>Cp868</item>  	// MS-DOS Pakistan
+    <item>Cp869</item>  	//  customer  Modern Greek
+    <item>Cp870</item>  	//  customer  Multilingual Latin-2
+    <item>Cp871</item>  	//  customer  Iceland
+    <item>Cp874</item>  	//  customer  Thai
+    <item>Cp875</item>  	//  customer  Greek
+    <item>Cp918</item>  	//  customer  Pakistan(Urdu)
+    <item>Cp921</item>  	//  customer  Latvia, Lithuania (AIX, DOS)
+    <item>Cp922</item>  	//  customer  Estonia (AIX, DOS)
+    <item>Cp930</item>  	// Japanese Katakana-Kanji mixed with 4370 UDC, superset of 5026
+    <item>Cp933</item>  	// Korean Mixed with 1880 UDC, superset of 5029
+    <item>Cp935</item>  	// Simplified Chinese Host mixed with 1880 UDC, superset of 5031
+    <item>Cp937</item>  	// Traditional Chinese Host miexed with 6204 UDC, superset of 5033
+    <item>Cp939</item>  	// Japanese Latin Kanji mixed with 4370 UDC, superset of 5035
+    <item>Cp942</item>  	// Japanese (OS/2) superset of 932
+    <item>Cp948</item>  	// OS/2 Chinese (Taiwan) superset of 938
+    <item>Cp949</item>  	// PC Korean
+    <item>Cp950</item>  	// PC Chinese (Hong Kong, Taiwan)
+    <item>Cp964</item>  	// AIX Chinese (Taiwan)
+    <item>Cp970</item>  	// AIX Korean
+    <item>EUC_CN</item> 	// GB2312, EUC encoding, Simplified Chinese
+    <item>EUC_JP</item> 	// JIS0201, 0208, 0212, EUC Encoding, Japanese
+    <item>EUC_KR</item> 	// KS C 5601, EUC Encoding, Korean
+    <item>EUC_TW</item> 	// CNS11643 (Plane 1-3), T. Chinese, EUC encoding
+    <item>GBK</item>    	// GBK, Simplified Chinese
+    <item>ISO2022CN</item>  // ISO 2022 CN, Chinese
+    <item>ISO2022CN_CNS</item>  // CNS 11643 in ISO-2022-CN form, T. Chinese
+    <item>ISO2022CN_GB</item>	// GB 2312 in ISO-2022-CN form, S. Chinese
+    <item>ISO2022JP</item>   	// JIS0201, 0208, 0212, ISO2022 Encoding, Japanese
+    <item>ISO2022KR</item>   	// ISO 2022 KR, Korean
+    <item>JIS0201</item>		// JIS 0201, Japanese
+    <item>JIS0208</item>		// JIS 0208, Japanese
+    <item>JIS0212</item>		// JIS 0212, Japanese
+    <item>KOI8_R</item> 		// KOI8-R, Russian
+    <item>MS874</item>  		// Windows Thai
+    <item>MacArabic</item>   	// Macintosh Arabic
+    <item>MacCentralEurope</item> // Macintosh Latin-2
+    <item>MacCroatian</item> 	// Macintosh Croatian
+    <item>MacCyrillic</item> 	// Macintosh Cyrillic
+    <item>MacDingbat</item>  	// Macintosh Dingbat
+    <item>MacGreek</item>    	// Macintosh Greek
+    <item>MacHebrew</item>   	// Macintosh Hebrew
+    <item>MacIceland</item>  	// Macintosh Iceland
+    <item>MacRoman</item>    	// Macintosh Roman
+    <item>MacRomania</item>  	// Macintosh Romania
+    <item>MacSymbol</item>   	// Macintosh Symbol
+    <item>MacThai</item>		// Macintosh Thai
+    <item>MacTurkish</item>  	// Macintosh Turkish
+    <item>MacUkraine</item>  	// Macintosh Ukraine
+    <item>SJIS</item>   		// Shift-JIS, Japanese
+    <item>UTF8</item>   		// UTF-8
+	</string-array>
+
+    <string-array name="listfontname">
+    <item>Monospace</item>
+    <item>Serif</item>
+    <item>Sans Serif</item>
+    </string-array>
+
+	<string-array name="listfontstyle">
+    <item>Normal</item>
+    <item>Bold</item>
+    <item>Italic</item>
+    <item>Bold+Italic</item>
+    </string-array>
+
+	<string-array name="listfontsize">
+    <item>Extra Small</item>
+    <item>Small</item>
+    <item>Medium</item>
+    <item>Large</item>
+    <item>Huge</item>
+    </string-array>
+
+	<string-array name="listapplocale">
+    <item></item>  	// default
+    <item>English (en)</item>
+    <item>العربية (ir)</item>
+    <item>Беларускі (by)</item>
+    <item>България (bg)</item>
+    <item>Magyar (hu)</item>
+    <item>中國人 (cn)</item>
+    <item>Česká (cz)</item>
+    <item>Deutsch (de)</item>
+    <item>Dansk (dk)</item>
+    <item>Español (es)</item>
+    <item>Suomi (fi)</item>
+    <item>Français (fr)</item>
+    <item>საქართველო (ge)</item>
+    <item>Ελληνική (gr)</item>
+    <item>Indonesia (id)</item>
+    <item>עברית (il)</item>
+    <item>Italiana (it)</item>
+    <item>日本人 (jp)</item>
+    <item>Lietuvių (lt)</item>
+    <item>Nederlands (nl)</item>
+    <item>Norsk (no)</item>
+    <item>Polski (pl)</item>
+    <item>Português (pt)</item>
+    <item>Română (ro)</item>
+    <item>Russian (ru)</item>
+    <item>Svenska (se)</item>
+    <item>ภาษาไทย (th)</item>
+    <item>Türk (tr)</item>
+    <item>Український (ua)</item>
+    <item>Việt Nam (vn)</item>
+    </string-array>
+
+</resources>

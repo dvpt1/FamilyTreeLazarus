@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">The Family Tree of Family</string>
+<string name="app_desc">The program is intended for preservation of history and construction of a family tree of a family.</string>
+    
+    <string name="app_code">Version 63</string>
+	<string name="app_version">Version 1.6.3</string>
+	<string name="pref_dir_default">/sdcard/FamilyTree</string>
+	<string name="admob_publisher_id">a14f05326cbc9fe</string>
+	<string name="leadbolt_id">210449009</string>
+	
+<string name="field_name">Person:</string>
+<string name="field_gender">Gender:</string>
+<string name="field_father">Father:</string>
+<string name="field_mother">Mother:</string>
+<string name="field_birth">Birth:</string>
+<string name="field_death">Death:</string>
+<string name="field_placeb">Birth place:</string>
+<string name="field_placed">Death place:</string>
+<string name="field_foto">Name:</string>
+<string name="field_note">Note:</string>
+<string name="field_child">Child:</string>
+<string name="field_son">Son:</string>
+<string name="field_daughter">Daughter:</string>
+<string name="field_brother">Brother:</string>
+<string name="field_sister">Sister:</string>
+<string name="field_occu">Occupation:</string>
+<string name="field_nati">Nationality:</string>
+<string name="field_spouse">Spouse:</string>
+<string name="field_wife">Wife:</string>
+<string name="field_husband">Husband:</string>
+<string name="field_wedding">Wedding Date:</string>
+<string name="field_placew">Wedding Venue:</string>
+
+<string name="title_family">Family</string>
+<string name="title_tree">Family Tree</string>
+<string name="title_branch">Genealogical branch</string>
+<string name="title_listgenerat">List of generations</string>
+<string name="title_generation">Generation</string>
+
+<string name="title_add">Add new Person</string>
+<string name="title_edit">Edit Person</string>
+<string name="title_rich">Information Person</string>
+<string name="title_foto">Photo album</string>
+<string name="title_kino">Video album</string>
+<string name="title_file">Files album</string>
+<string name="title_delete">Delete this Person?</string>
+
+<string name="title_folder">Select folder</string>
+
+<string name="menu_new">New</string>
+<string name="menu_open">Open</string>
+<string name="menu_load">Load</string>
+<string name="menu_save">Save</string>
+<string name="menu_edit">Edit</string>
+<string name="menu_dele">Delete</string>
+<string name="menu_sort">Sort</string>
+<string name="menu_find">Find</string>
+<string name="menu_tune">Settings</string>
+<string name="menu_abou">About</string>
+<string name="menu_exit">Exit</string>
+<string name="menu_back">Back</string>
+<string name="menu_face">Facebook</string>
+<string name="menu_prin">Print</string>
+<string name="menu_send">Send</string>
+
+<string name="menu_ok">OK</string>
+<string name="menu_yes">Yes</string>
+<string name="menu_no">No</string>
+<string name="menu_cancel">Cancel</string>
+<string name="menu_delete">Delete</string>
+
+<string name="gender_male">Male</string>
+<string name="gender_female">Female</string>
+<string name="gender_neutral">to Say</string>
+
+<string name="date_format">MM/dd/yyyy</string>
+<string name="data_byte"> byte</string>
+<string name="data_date"> date</string>
+<string name="data_time"> time</string>
+                
+<string name="msg_unable_save_file">Unable to save file: </string>
+<string name="msg_file_not_found">File not Found: </string>
+<string name="msg_error_loading_file">Error loading file: </string>
+<string name="msg_sele_person">Selected person:</string>
+<string name="msg_del_foto">Remove the photo?</string>
+<string name="msg_del_kino">Remove video?</string>
+<string name="msg_del_file">Delete a file?</string>
+<string name="msg_del_person">Remove person?</string>
+<string name="msg_deld_foto">Photo removed:</string>
+<string name="msg_deld_kino">Video Removed:</string>
+<string name="msg_deld_file">The file was deleted:</string>
+<string name="msg_deld_person">A person removed:</string>
+<string name="msg_open_file">Open file:</string>
+<string name="msg_save_file">Save file:</string>
+<string name="msg_dirs_file">Choose dir:</string>
+<string name="msg_copy_file">The file is copied!</string>
+<string name="msg_copyed_file">File is copied!</string>
+<string name="msg_file_already_list">File already in the list</string>
+<string name="msg_person_already_list">Person already in the list</string>
+<string name="msg_unknown_file_type">Unknown file type</string>
+
+<string name="list_button_hint">Add person</string>
+<string name="tree_button_hint">Family Tree</string>
+<string name="genr_button_hint">Generation list</string>
+<string name="rept_button_hint">Personal Report</string>
+<string name="foto_button_hint">Photo Album</string>
+<string name="kino_button_hint">Video Album</string>
+<string name="file_button_hint">Downloads</string>
+<string name="rich_button_hint">Family History</string>
+<string name="newe_button_hint">Add</string>
+<string name="edit_button_hint">Edit</string>
+<string name="dele_button_hint">Remove</string>
+<string name="find_button_hint">Search</string>
+<string name="pict_button_hint">Add a photo</string>
+<string name="prin_button_hint">Print</string>
+<string name="save_button_hint">Save</string>
+<string name="sort_button_hint">Sort</string>
+<string name="tune_button_hint">Settings</string>
+<string name="help_button_hint">Help</string>
+<string name="exit_button_hint">Exit the program</string>
+<string name="size_button_hint">Size</string>
+<string name="plus_button_hint">Enlarge</string>
+<string name="minus_button_hint">Reduce</string>
+<string name="back_button_hint">Back</string>
+
+<string name="labelName">Name:</string>
+<string name="labelNote">Description:</string>
+
+<!-- Preferences stuff -->
+<string name="pref_tree_title">Preferences</string>
+			
+<string name="pref_list_title">View a list of persons</string>
+<string name="pref_list_dialog">Choose the type a list of persons</string>
+<string name="pref_list_small">View small (32x32)</string>
+<string name="pref_list_middle">View middle (48x48)</string>
+<string name="pref_list_large">View large (64x64)</string>
+           
+<string name="hint_list_small">See the name, date of birth, date of death, gender</string>
+<string name="hint_list_middle">See the name, date of birth, date of death, gender, father and mother</string>
+<string name="hint_list_large">See the name, date of birth, date of death, place of birth, place of death, gender, father and mother</string>
+        
+<string name="pref_view_tree_title">View a family tree</string>
+<string name="pref_view_tree_dialog">Choose the view a family tree</string>
+<string name="pref_view_tree_down">With top-down</string>
+<string name="pref_view_tree_all">With down-Up</string>
+    
+<string name="hint_view_tree_down">With top-down a family tree.</string>
+<string name="hint_view_tree_all">With down-Up a family tree.</string>
+
+<string name="pref_tree_all_title">View a Family Tree</string>
+<string name="pref_tree_all_tree">Person and Tree</string>
+<string name="pref_tree_all_father">Father and Child</string>
+<string name="pref_tree_all_mother">Mother and Child</string>
+        
+<string name="hint_tree_all_tree">Draw contact person and tree</string>
+<string name="hint_tree_all_father">Draw contact father and child</string>
+<string name="hint_tree_all_mother">Draw contact mother and child</string>
+
+<string name="pref_gender_title">Progenitor</string>
+<string name="pref_tree_gender">The choice of the founder of</string>
+<string name="root_all">all</string>
+<string name="root_men">from men</string>
+<string name="root_women">from women</string>
+        
+<string name="pref_pay_title">Advertising</string>
+<string name="pref_pay_text">Delete Advertise</string>
+<string name="hint_pay_text">Buy of program now</string>
+        
+<string name="pref_type_title">Kind of tree</string>
+<string name="hint_type_title">Selection of the family tree</string>
+<string name="pref_type_all">Universal</string>
+<string name="pref_type_commom">General</string>
+<string name="pref_type_ring">Rings</string>
+<string name="pref_type_national">National</string>
+
+<string name="pref_catalog_title">Directory</string>
+<string name="hint_catalog_title">Select a directory location data</string>
+<string name="pref_lang_title">Language</string>
+<string name="hint_lang_title">Program language</string>
+<string name="pref_date_title">Date</string>
+<string name="hint_date_title">Select a date format of the program</string>
+
+<string name="pref_form_title">The format of the tree</string>
+<string name="hint_form_title">Selecting the format of a family tree</string>
+<string name="pref_form_bmp">Graphic</string>
+<string name="pref_form_htm">Hypertext</string>
+
+<!-- Sort person -->
+<string name="sort_person_title">Sort the list of persons</string>
+		
+<!-- Find person -->
+<string name="find_person_title">Search for a person</string>
+<string name="find_not_found">Not found</string>
+
+<!-- GEDCOM -->
+<string name="pref_gedcom_title">GEDCOM</string>
+<string name="pref_gedcom_import">Import GEDCOM</string>
+<string name="pref_gedcom_export">Export GEDCOM</string>
+<string name="hint_gedcom_import">Imports into the international genealogical format GEDCOM</string>
+<string name="hint_gedcom_export">Exports to international genealogical format GEDCOM</string>
+<string name="pref_gedcom_charset">Character set GEDCOM</string>
+<string name="hint_gedcom_charset"></string>
+<string name="code_gedcom_between">between</string>
+<string name="code_gedcom_and">and</string>
+<string name="code_gedcom_before">before</string>
+<string name="code_gedcom_after">after</string>
+			
+<!-- ZIP -->
+<string name="pref_zip_title">ZIP</string>
+<string name="pref_zip_export">Compress in ZIP</string>
+<string name="pref_zip_import">Decompress from ZIP</string>
+<string name="hint_zip_export">Save the information in the ZIP archive</string>
+<string name="hint_zip_import">Retrieve information from the ZIP archive</string>
+			
+<!-- DIR -->
+<string name="pref_dir_title">Directory Information</string>
+<string name="pref_dir_name">Set Default Directory</string>
+<string name="pref_dir_summary">Default directory storage information</string>
+				
+<!-- TEST BASE -->
+<string name="pref_test_err0">repetition of persons</string>
+<string name="pref_test_err1">not entered</string>
+<string name="pref_test_err2">not on the list</string>
+<string name="pref_test_err3">born BEFORE</string>
+<string name="pref_test_err4">repetition of spouse</string>
+	
+<!-- ERROR MESSAGE -->
+<string name="error_msg00">Can not</string>
+<string name="error_msg01">Can not open file:</string>
+<string name="error_msg02">Unable to save file:</string>
+<string name="error_msg03">File not found:</string>
+<string name="error_msg04">Error loading file:</string>
+
+<!-- TASK -->
+<string name="task_loading">Loading (%1$d%%)...</string>
+<string name="task_saveing">Saving (%1$d%%)...</string>
+<string name="task_sorting">Sorting (%1$d%%)...</string>
+<string name="task_growing">Growing ...</string>
+<string name="task_waiting">Waiting ...</string>
+<string name="task_runing">Processing ...</string>
+<string name="task_calcing">Calculation ...</string>
+<string name="task_copying">Copying (%1$d%%)...</string>
+<string name="task_working">Work (%1$d%%)...</string>
+<string name="task_testing">Testing (%1$d%%)...</string>
+<string name="task_starting">Starting ...</string>
+<string name="task_cancelled">Task is cancelled.</string>
+<string name="task_completed">Task is completed.</string>
+	
+<!-- Appearance -->  
+<string name="title_appearance">Appearance</string>
+<string name="appe_fontname">Font</string>
+<string name="hint_fontname">Choose a font type</string>  
+<string name="appe_fontstyle">Font Style</string>
+<string name="hint_fontstyle">Choose a font style</string>  
+<string name="appe_fontsize">Font Size</string>
+<string name="hint_fontsize">Choose a font size</string>
+<string name="title_color">Choose a color</string>
+<string name="appe_fontclr">Font Color</string>
+<string name="hint_fontclr">Choose a font color</string>  
+<string name="appe_bground">Background Color</string>
+<string name="hint_bground">Choose a background color</string>
+
+<!-- Facebook -->  
+<string name="title_facebook">Social network Facebook</string>
+<string name="app_action">I am using the FamilyTree for Android</string>
+<string name="request_message">The Family Tree of Family for Android.</string>
+<string name="post">Wall Post!</string>
+<string name="request">Request!</string>
+<string name="friends">Get Friends</string>
+<string name="upload">Upload Photo</string>
+<string name="place">Place Check-in</string>
+<string name="photo_upload">The FamilyTree photo upload</string>
+<string name="error_selecting_image">Error selecting image from the gallery.</string>
+<string name="no_image_selected">No image selected for upload.</string>
+<string name="warning">Warning</string>
+<string name="you_must_first_log_in">You must first log in.</string>
+<string name="update_status_executed">Update Status executed</string>
+<string name="no_wall_post_made">No wall post made</string>
+<string name="update_status_cancelled">Update status cancelled</string>
+<string name="app_request_sent">App request sent</string>
+<string name="app_request_cancelled">App request cancelled</string>
+<string name="upload_photo_executed">Upload Photo executed</string>
+<string name="response">Response:</string>
+<string name="welcome">Welcome</string>
+<string name="login_failed">Login Failed:</string>
+<string name="logging_out">Logging out...</string>
+<string name="you_have_logged_out">You have logged out!</string>
+<string name="fetching_user_name">Fetching user name, profile picture...</string>
+<string name="no_login">Graph API Explorer</string>
+<string name="get_permissions">Get Permissions</string>
+<string name="access_token">Access Token:</string>
+<string name="error">Error</string>
+<string name="reset">Reset</string>
+<string name="delete">Delete Post</string>
+<string name="submit">Submit</string>
+<string name="label_output">Output:</string>
+<string name="show_metadata">Show metadata</string>
+<string name="show_picture">Show picture</string>
+<string name="exception">Exception: </string>
+<string name="tip_label">Tip:</string>
+<string name="facebook_error">Facebook Error: </string>
+<string name="api_response">Api Response:</string>
+<string name="view_source">View Source</string>
+<string name="view_post">View Post</string>
+<string name="delete_post">Delete Post</string>
+<string name="source_code">Source Code:</string>
+<string name="view_photo">View Photo</string>
+<string name="hide_photo">Hide Photo</string>
+<string name="tag_photo">Tag Photo</string>
+<string name="graph_button">Graph API</string>
+<string name="fql_button">FQL Query</string>
+<string name="remote_button">Remote</string>
+<string name="gallery_button">Gallery</string>
+<string name="get_fields">Get Fields</string>
+<string name="connections">Connections</string>
+<string name="checkin">Check-in</string>
+<string name="user">User Data</string>
+<string name="fields">Fields</string>
+<string name="friend">Friends Data</string>
+<string name="extended">Extended</string>
+<string name="source_tag">Source tag:</string>
+<string name="can_post_on_wall_title">Post on friend`s wall</string>
+<string name="can_post_on_wall">Friends list fetched. You can post on friend`s wall by clicking on the item.</string>
+<string name="post_on_wall_title">Post on Wall?</string>
+<string name="gallery_remote_title">Upload from gallery or remote?</string>
+<string name="gallery_remote_msg">Upload picture from phone gallery or remote server?</string>
+<string name="get_location">Get Location?</string>
+<string name="get_default_or_new_location">Get current location or use Times Square as the location?</string>
+<string name="current_location_button">Current Location</string>
+<string name="fetching_current_permissions">Fetching current permissions...</string>
+<string name="nearby_places">Fetching nearby places...</string>
+<string name="times_square_button">Times Square</string>
+<string name="check_in_title">Check-in?</string>
+<string name="permissions">Permissions</string>
+<string name="back_parent">Back to parent</string>
+<string name="permissions_request">Select Permissions:</string>
+<string name="fetching_location">Fetching Location...</string>
+<string name="fqlquery">Enter FQL Query:</string>
+<string name="enable_gps_title">Enable GPS</string>
+<string name="enable_gps">Please enable GPS to get nearby places and check-in</string>
+<string name="gps_settings">GPS Settings</string>
+<string name="refresh_token_title">Refresh Token</string>
+<string name="refresh_button">Refresh</string>
+<string name="refresh_button_pending">Refreshing…</string>
+<string name="access_token_label">Current access token:</string>
+<string name="access_token_expires_label">Token expires at:</string>
+<string name="refresh_token_tip">In most cases the access token should be refreshed silently when the application is running (for example see FamilyTree onResume method).</string>
+<string name="refresh_token_binding_error">Binding to the Facebook Android Application failed (is it installed?).</string>
+<string name="permission_detail">Checkout <a href="https://developers.facebook.com/docs/authentication/permissions/">permissions reference doc</a></string>
+<string name="check_in_at">Would you like to check-in at %1$s?</string>
+<string name="post_tip">\'read_stream\' permission is required to view and delete the post.\n\nUse SDK dialogs to publish stories or post on friends wall. <a href="https://developers.facebook.com/docs/reference/dialogs">More info</a>\n\n<a href="https://developers.facebook.com/docs/reference/api/Comment">Like and Comment on a post</a></string>
+<string name="photo_tip">Photos are by default uploaded to the app\'s album. Specify album_id to upload to specific album. E.g. https://graph.facebook.com/{album_id}/photos.\n\nMore Info: https://developers.facebook.com/docs/reference/api/photo</string>
+<string name="fields_and_connections">Fields \u0026 Connections</string>
+<string name="explorer_message">Also, checkout the web-version of the <a href="http://developers.facebook.com/tools/explorer">Graph API Explorer tool</a></string>
+<string name="permission_source_tag">Source tag: \"perms_tag\"</string>
+<string name="post_on_wall">Would you like to post on %1$s\'s wall</string>
+<string name="Graph_FQL_title">Graph API or FQL Query?</string>
+<string name="Graph_FQL_msg">Get friends using Graph or FQL Query?\n\nWith FQL query you can sort the list by names, whereas with Graph list will be ordered by UID and can\'t be changed.</string>
+<string name="graph_domain">https://graph.facebook.com/</string>
+<string name="view_url">URL</string>
+<string name="target_url">Target URL:</string>
+
+<!-- REGISTRATION -->
+<string name="msg_yes_regs">Sign up!</string>
+<string name="msg_not_reg1">Limit for unregistered copies</string>
+<string name="msg_not_reg2">  records</string>
+	
+<!-- Twitter -->  
+<string name="title_twitter">Social network Twitter</string>
+    	
+<!-- Locale -->  
+<string name="title_app_locale">Country</string>
+<string name="pref_appe_locale">Language</string>
+<string name="hint_appe_locale">Choose Language</string>
+
+<!-- Feedback -->  
+<string name="menu_feed">Feedback</string>
+<string name="menu_love">Send Love</string>
+<string name="menu_wall">Tweet</string>
+<string name="menu_lgin">Login</string>
+<string name="menu_lout">Logout</string>
+
+</resources>
